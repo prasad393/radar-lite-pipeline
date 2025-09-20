@@ -61,4 +61,4 @@ radar-lite-pipeline/
 ```
 
 ## Notes
-This is an educational, CPU-only pipeline intended for interview portfolios and learning. Numerics and models are simplified.
+This is an educational, CPU-only pipeline intended for learning. Numerics and models are simplified.
